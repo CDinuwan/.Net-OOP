@@ -1,0 +1,16 @@
+G:\Projects\OOP\Polymorphism\Polymorphism\bin\Debug\net5.0\Polymorphism.exe
+G:\Projects\OOP\Polymorphism\Polymorphism\bin\Debug\net5.0\Polymorphism.deps.json
+G:\Projects\OOP\Polymorphism\Polymorphism\bin\Debug\net5.0\Polymorphism.runtimeconfig.json
+G:\Projects\OOP\Polymorphism\Polymorphism\bin\Debug\net5.0\Polymorphism.runtimeconfig.dev.json
+G:\Projects\OOP\Polymorphism\Polymorphism\bin\Debug\net5.0\Polymorphism.dll
+G:\Projects\OOP\Polymorphism\Polymorphism\bin\Debug\net5.0\ref\Polymorphism.dll
+G:\Projects\OOP\Polymorphism\Polymorphism\bin\Debug\net5.0\Polymorphism.pdb
+G:\Projects\OOP\Polymorphism\Polymorphism\obj\Debug\net5.0\Polymorphism.csprojAssemblyReference.cache
+G:\Projects\OOP\Polymorphism\Polymorphism\obj\Debug\net5.0\Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\OOP\Polymorphism\Polymorphism\obj\Debug\net5.0\Polymorphism.AssemblyInfoInputs.cache
+G:\Projects\OOP\Polymorphism\Polymorphism\obj\Debug\net5.0\Polymorphism.AssemblyInfo.cs
+G:\Projects\OOP\Polymorphism\Polymorphism\obj\Debug\net5.0\Polymorphism.csproj.CoreCompileInputs.cache
+G:\Projects\OOP\Polymorphism\Polymorphism\obj\Debug\net5.0\Polymorphism.dll
+G:\Projects\OOP\Polymorphism\Polymorphism\obj\Debug\net5.0\ref\Polymorphism.dll
+G:\Projects\OOP\Polymorphism\Polymorphism\obj\Debug\net5.0\Polymorphism.pdb
+G:\Projects\OOP\Polymorphism\Polymorphism\obj\Debug\net5.0\Polymorphism.genruntimeconfig.cache

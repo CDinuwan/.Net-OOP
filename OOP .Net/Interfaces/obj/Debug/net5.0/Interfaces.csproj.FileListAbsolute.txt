@@ -1,0 +1,15 @@
+G:\Projects\OOP\OOP .Net\Interfaces\bin\Debug\net5.0\Interfaces.exe
+G:\Projects\OOP\OOP .Net\Interfaces\bin\Debug\net5.0\Interfaces.deps.json
+G:\Projects\OOP\OOP .Net\Interfaces\bin\Debug\net5.0\Interfaces.runtimeconfig.json
+G:\Projects\OOP\OOP .Net\Interfaces\bin\Debug\net5.0\Interfaces.runtimeconfig.dev.json
+G:\Projects\OOP\OOP .Net\Interfaces\bin\Debug\net5.0\Interfaces.dll
+G:\Projects\OOP\OOP .Net\Interfaces\bin\Debug\net5.0\ref\Interfaces.dll
+G:\Projects\OOP\OOP .Net\Interfaces\bin\Debug\net5.0\Interfaces.pdb
+G:\Projects\OOP\OOP .Net\Interfaces\obj\Debug\net5.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\OOP\OOP .Net\Interfaces\obj\Debug\net5.0\Interfaces.AssemblyInfoInputs.cache
+G:\Projects\OOP\OOP .Net\Interfaces\obj\Debug\net5.0\Interfaces.AssemblyInfo.cs
+G:\Projects\OOP\OOP .Net\Interfaces\obj\Debug\net5.0\Interfaces.csproj.CoreCompileInputs.cache
+G:\Projects\OOP\OOP .Net\Interfaces\obj\Debug\net5.0\Interfaces.dll
+G:\Projects\OOP\OOP .Net\Interfaces\obj\Debug\net5.0\ref\Interfaces.dll
+G:\Projects\OOP\OOP .Net\Interfaces\obj\Debug\net5.0\Interfaces.pdb
+G:\Projects\OOP\OOP .Net\Interfaces\obj\Debug\net5.0\Interfaces.genruntimeconfig.cache

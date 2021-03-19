@@ -8,12 +8,25 @@ namespace OOP_.Net
         {
             var chanuka = new Person(24, 100);
             var dilini = new Person(21, 90);
-            var tharun = new Person(15, 80);
+            var rukshani = new Person(15, 80);
 
             chanuka.TellLifeStory();
             dilini.TellLifeStory();
-            tharun.TellLifeStory();
+            rukshani.TellLifeStory();
+
+            Vehicle car = new Car();
+            Vehicle bus = new Bus();
+
+            car.TurnOn();
+            car.TurnOn();
+
+            bus.TurnOn();
+            bus.TurnOff();
+
+            Console.WriteLine(car.AirBag);
+            Console.WriteLine(bus.AirBag);
         }
 
     }
+
 }

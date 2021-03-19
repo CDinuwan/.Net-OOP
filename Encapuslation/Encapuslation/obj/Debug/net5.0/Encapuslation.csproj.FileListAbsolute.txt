@@ -1,0 +1,16 @@
+G:\Projects\OOP\Encapuslation\Encapuslation\bin\Debug\net5.0\Encapuslation.exe
+G:\Projects\OOP\Encapuslation\Encapuslation\bin\Debug\net5.0\Encapuslation.deps.json
+G:\Projects\OOP\Encapuslation\Encapuslation\bin\Debug\net5.0\Encapuslation.runtimeconfig.json
+G:\Projects\OOP\Encapuslation\Encapuslation\bin\Debug\net5.0\Encapuslation.runtimeconfig.dev.json
+G:\Projects\OOP\Encapuslation\Encapuslation\bin\Debug\net5.0\Encapuslation.dll
+G:\Projects\OOP\Encapuslation\Encapuslation\bin\Debug\net5.0\ref\Encapuslation.dll
+G:\Projects\OOP\Encapuslation\Encapuslation\bin\Debug\net5.0\Encapuslation.pdb
+G:\Projects\OOP\Encapuslation\Encapuslation\obj\Debug\net5.0\Encapuslation.csprojAssemblyReference.cache
+G:\Projects\OOP\Encapuslation\Encapuslation\obj\Debug\net5.0\Encapuslation.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\OOP\Encapuslation\Encapuslation\obj\Debug\net5.0\Encapuslation.AssemblyInfoInputs.cache
+G:\Projects\OOP\Encapuslation\Encapuslation\obj\Debug\net5.0\Encapuslation.AssemblyInfo.cs
+G:\Projects\OOP\Encapuslation\Encapuslation\obj\Debug\net5.0\Encapuslation.csproj.CoreCompileInputs.cache
+G:\Projects\OOP\Encapuslation\Encapuslation\obj\Debug\net5.0\Encapuslation.dll
+G:\Projects\OOP\Encapuslation\Encapuslation\obj\Debug\net5.0\ref\Encapuslation.dll
+G:\Projects\OOP\Encapuslation\Encapuslation\obj\Debug\net5.0\Encapuslation.pdb
+G:\Projects\OOP\Encapuslation\Encapuslation\obj\Debug\net5.0\Encapuslation.genruntimeconfig.cache
